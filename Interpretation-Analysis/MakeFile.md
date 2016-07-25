@@ -20,7 +20,9 @@ list.files()
 ```
 ## [1] "Case Study 10"                   "ChulwalarCode"                  
 ## [3] "ImportedAsIsDataChulwalar.csv"   "ImportedIndicatorsChulwalar.csv"
-## [5] "ImportedPlanDataChulwalar.csv"
+## [5] "ImportedPlanDataChulwalar.csv"   "MakeFile.html"                  
+## [7] "MakeFile.md"                     "MakeFile.Rmd"                   
+## [9] "MakeFile_files"
 ```
 
 ```r
