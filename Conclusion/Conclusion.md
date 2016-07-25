@@ -7,5 +7,5 @@ In summary, under the Holt Winters analysis, the multiplicative model came out a
 
 The overall trend for the wuge is consistent and positive.There is some concern that this model will need to switch from linear to quadratic given the somewhat cresendo effect Holts Forecast had since 2009 during the increase. The Linear fit showed that when utilizing Seasonal Decompositions, the actual seasonal data is preferred over the benchmark/planned seasonal data sets for a better fit of regression.
 
-hat the great prime minister of Chulwalhar should anticipate is an overal increasing trend with Wuge and within the next 4 months observe some what of a pullback in Q1 2014.
+What the great prime minister of Chulwalhar should anticipate is an overal increasing trend with Wuge and within the next 4 months observe some what of a pullback in Q1 2014.
 
