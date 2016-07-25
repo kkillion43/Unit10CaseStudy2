@@ -1,3 +1,8 @@
+# README
+Paola Leon, Eyal Greenberg and Kyle Killion  
+July 24, 2016  
+
+
 # Unit10CaseStudy2
 
 ## Introduction
@@ -20,6 +25,28 @@ https://s3-us-west-2.amazonaws.com/smu-mds/prod/MSDS+6306+Doing+Data+Science/Wee
 
 
 ## Recording the session info
-```{r}
+
+```r
 sessionInfo()
+```
+
+```
+## R version 3.3.0 (2016-05-03)
+## Platform: x86_64-w64-mingw32/x64 (64-bit)
+## Running under: Windows 7 x64 (build 7601) Service Pack 1
+## 
+## locale:
+## [1] LC_COLLATE=English_United States.1252 
+## [2] LC_CTYPE=English_United States.1252   
+## [3] LC_MONETARY=English_United States.1252
+## [4] LC_NUMERIC=C                          
+## [5] LC_TIME=English_United States.1252    
+## 
+## attached base packages:
+## [1] stats     graphics  grDevices utils     datasets  methods   base     
+## 
+## loaded via a namespace (and not attached):
+##  [1] magrittr_1.5    tools_3.3.0     htmltools_0.3.5 yaml_2.1.13    
+##  [5] Rcpp_0.12.5     stringi_1.0-1   rmarkdown_0.9.6 knitr_1.13     
+##  [9] stringr_1.0.0   digest_0.6.9    evaluate_0.9
 ```
