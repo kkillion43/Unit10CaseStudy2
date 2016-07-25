@@ -18,11 +18,13 @@ list.files()
 ```
 
 ```
-## [1] "Case Study 10"                   "ChulwalarCode"                  
-## [3] "ImportedAsIsDataChulwalar.csv"   "ImportedIndicatorsChulwalar.csv"
-## [5] "ImportedPlanDataChulwalar.csv"   "MakeFile.html"                  
-## [7] "MakeFile.md"                     "MakeFile.Rmd"                   
-## [9] "MakeFile_files"
+##  [1] "Analysis.html"                   "Analysis.md"                    
+##  [3] "Analysis.Rmd"                    "Analysis_files"                 
+##  [5] "Case Study 10"                   "ChulwalarCode"                  
+##  [7] "ImportedAsIsDataChulwalar.csv"   "ImportedIndicatorsChulwalar.csv"
+##  [9] "ImportedPlanDataChulwalar.csv"   "MakeFile.html"                  
+## [11] "MakeFile.md"                     "MakeFile.Rmd"                   
+## [13] "MakeFile_files"
 ```
 
 ```r
